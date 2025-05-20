@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java for Minecraft modding**
 
-- 👨‍💻 All of my projects are available at [https://github.com/burnttoastdev](https://github.com/burnttoastdev)
+- 👨‍💻 All of my projects are available here at [https://github.com/burnttoastdev](https://github.com/burnttoastdev)
 
 - 📝 Find my Minecraft data packs and mods at [https://modrinth.com/user/burnttoastdev](https://modrinth.com/user/burnttoastdev)
 
