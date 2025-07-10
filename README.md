@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=burnttoastdev&label=Profile%20views&color=0e75b6&style=flat" alt="burnttoastdev" /> </p>
 
-- 🌱 I’m currently learning **Java for Minecraft modding** 
+- 🌱 I’m currently learning **Lua for the Playdate Handheld** 
 
 - 👨‍💻 All of my projects are available here at [https://github.com/burnttoastdev](https://github.com/burnttoastdev)
 
