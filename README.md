@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm burnttoastdev</h1>
-<h3 align="center">A Python, Lua, and Java coder from Michigan</h3>
+<h3 align="center">A small Python & Lua coder from Michigan</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=burnttoastdev&label=Profile%20views&color=0e75b6&style=flat" alt="burnttoastdev" /> </p>
 
-- 🌱 I’m currently learning **Lua for the Playdate Handheld** 
+- 🌱 I’m currently learning **Python & Pygame** 
 
 - 👨‍💻 All of my projects are available here at [https://github.com/burnttoastdev](https://github.com/burnttoastdev)
 
